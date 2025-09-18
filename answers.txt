@@ -15,7 +15,3 @@ Cons: 1. Not flexible, very difficult to adapt to changing.
 
 2. The scrum master facilitates the scrum to the larger team by ensuring the scrum framework is followed. They are committed to the foundational elements of scrum but remain flexible and open to opportunities to improve the team workflow.
 The product owner focuses on maximizing the product value by defining product vision and managing product backlog. They also act as the voice of the customer and business to the development team.
-
-3. 1. Sprint Planning: A planning meeting before the sprint starts. Goal is to establish what the team wants to accomplish during the sprint.
-   2. Daily Standup Meeting: Short meetings each day where team members say what they accomplished yesterday and what they will accomplish today, also bring up any roadblocks.
-   3. Sprint Review Meeting: Held at end of each sprint. Demonstrate what has been accomplished to product owner and other stakeholders. Goal is to get feedback for the next sprint.
