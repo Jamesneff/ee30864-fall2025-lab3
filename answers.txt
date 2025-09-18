@@ -12,3 +12,7 @@ Pros: 1. Clear project scope and timeline, as it is planned beforehand.
 
 Cons: 1. Not flexible, very difficult to adapt to changing.
       2. Issues with requirements or design may not be found until very late in the development process.
+
+2. The scrum master facilitates the scrum to the larger team by ensuring the scrum framework is followed. They are committed to the foundational elements of scrum but remain flexible and open to opportunities to improve the team workflow.
+The product owner focuses on maximizing the product value by defining product vision and managing product backlog. They also act as the voice of the customer and business to the development team.
+
