@@ -20,3 +20,7 @@ The product owner focuses on maximizing the product value by defining product vi
    2. Daily Standup Meeting: Short meetings each day where team members say what they accomplished yesterday and what they will accomplish today, also bring up any roadblocks.
    3. Sprint Review Meeting: Held at end of each sprint. Demonstrate what has been accomplished to product owner and other stakeholders. Goal is to get feedback for the next sprint.
 
+4. Epics - Large body of work that can be broken down into smaller chunks.
+   Story - Small independent piece of functionality from user's perspective.
+   Bug - Issue in existing functionality that needs to be fixed.
+   Task - Work item thta doesn't deliver direct user value but is needed.
