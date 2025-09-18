@@ -1,0 +1,14 @@
+1. Agile Development:
+Pros: 1. Regular sprints allow teams to quickly respond to changing requirements, providing better flexibility.
+      2. Continuous delivery and frequent customer collaboration leads to higher customer satisfaction
+
+Cons: 1. Less predictable timelines and budget because of frequent changes to project requirements.
+      2. Requires a lot of teamwork, can put a strain on inexperienced team members.
+
+
+Non-Agile Development:
+Pros: 1. Clear project scope and timeline, as it is planned beforehand.
+      2. Documentation created during planning phase helps speed up development process and makes maintainence easier.
+
+Cons: 1. Not flexible, very difficult to adapt to changing.
+      2. Issues with requirements or design may not be found until very late in the development process.
